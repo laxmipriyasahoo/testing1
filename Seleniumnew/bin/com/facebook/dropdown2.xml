@@ -1,0 +1,16 @@
+"<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="facebook">
+<test name="login">
+<classes>
+<class name="com.facebook.Facebooklogin"/>
+</classes>
+</test>
+</suite>
+<test name="jquery">
+<classes
+<class name="com.draganddrop.Draganddrop"/>
+</classes>
+</test>
+</suite>
+
+

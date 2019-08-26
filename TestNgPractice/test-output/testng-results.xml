@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[first test case]]>
+    </line>
+    <line>
+      <![CDATA[fourth test case]]>
+    </line>
+    <line>
+      <![CDATA[second test case]]>
+    </line>
+    <line>
+      <![CDATA[third test case]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69" started-at="2018-11-02T12:49:33Z" finished-at="2018-11-02T12:49:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69" started-at="2018-11-02T12:49:33Z" finished-at="2018-11-02T12:49:33Z">
+      <class name="day1.Demo">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:day1.Demo@1a407d53]" name="tc1" duration-ms="22" started-at="2018-11-02T05:49:33Z" finished-at="2018-11-02T05:49:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[first test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:day1.Demo@1a407d53]" name="tc4" duration-ms="4" started-at="2018-11-02T05:49:33Z" finished-at="2018-11-02T05:49:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[fourth test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:day1.Demo@1a407d53]" name="tc2" duration-ms="3" started-at="2018-11-02T05:49:33Z" finished-at="2018-11-02T05:49:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[second test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:day1.Demo@1a407d53]" name="tc3" duration-ms="3" started-at="2018-11-02T05:49:33Z" finished-at="2018-11-02T05:49:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[third test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- day1.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
